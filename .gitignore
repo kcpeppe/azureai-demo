@@ -1,3 +1,9 @@
+OSX
+.DS_Store
+
+# Intellij
+.idea/
+
 # Compiled class file
 *.class
 
